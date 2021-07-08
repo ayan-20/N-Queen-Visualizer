@@ -18,7 +18,7 @@ function setup() {
     }
     
     wcell = width/n;
-    q1 = loadImage('assets/q1.png');
+    q1 = loadImage('q1.png');
     qimg = q1;
     init();
     //background(255, 0, 200);
